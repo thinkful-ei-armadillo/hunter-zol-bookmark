@@ -10,3 +10,4 @@
 {"message":"Unauthorized request to path: /bookmarks","level":"error"}
 {"message":"Unauthorized request to path: /bookmarks","level":"error"}
 {"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"bookmark with id 48b68d73-3ea7-42dc-afb7-6e2848067f57 created","level":"info"}
